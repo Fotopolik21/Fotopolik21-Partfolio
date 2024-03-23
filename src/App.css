@@ -1,0 +1,8 @@
+.App{
+    border-radius: 20px;
+    background-image: url(../src/assets/img/image\ \(1\).jpg);
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
+    min-width: 99vw;
+    background-position: 0 0;
+}
