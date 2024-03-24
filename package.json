@@ -2,7 +2,7 @@
   "name": "portfolio-start",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://Fotopolik21.github.ioFotopolik21-Partfolio",
+  "homepage": "https://fotopolik21.github.io/Fotopolik21-Partfolio/",
   "dependencies": {
     "@babel/core": "7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.3",
